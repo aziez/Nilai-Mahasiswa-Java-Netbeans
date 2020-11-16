@@ -1,0 +1,10 @@
+DATA NILAI MAHASISWA 
+Muhamad Abdul Aziz
+============================================== 
+UTS 	 : 89
+TM  	 : 80
+UAS 	 : 90
+=============================================
+ 	 Rata-Rata : 86.0
+	 Hasil : LULUS
+	 Grade : A
